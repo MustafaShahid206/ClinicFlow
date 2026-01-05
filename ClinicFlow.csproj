@@ -18,4 +18,10 @@
     </PackageReference>
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Data\Migrations\" />
+    <Folder Include="Models\ViewModels\" />
+    <Folder Include="Services\" />
+  </ItemGroup>
+
 </Project>
